@@ -1,2 +1,4 @@
-const a: string = "aaa";
-const b: number = 1;
+export class Teste {
+    private name: string
+    private email: string = 'aaaa aaa'
+}
